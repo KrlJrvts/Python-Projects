@@ -1,0 +1,4 @@
+Car O won. Winner race time 2.484684467315674 seconds  
+Car O won. Winner race time 4.339070796966553 seconds  
+Car X won. Winner race time 1.8626530170440674 seconds 
+Car O won. Winner race time 2.4836392402648926 seconds It's a tie! Total race time 14.266931056976318 seconds It's a tie! Total race time 3.7194674015045166 seconds It's a tie! Total race time 3.095728635787964 secondsIt's a tie! Total race time 3.7220335006713867 secondsIt's a tie! Total race time 3.102098226547241 secondsIt's a tie! Total race time 3.093465566635132 secondsCar X won. Winner race time 6.817352294921875 secondsIt's a tie! Total race time 3.739316940307617 secondsIt's a tie! Total race time 4.964191675186157 secondsIt's a tie! Total race time 6.207439184188843 secondsIt's a tie! Total race time 4.34 secondsCar O won. Winner race time 11.8052 seconds
