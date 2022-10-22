@@ -26,14 +26,14 @@ def Race(track, speed_car):
             print("It's a tie!")
             print("Total race time %s seconds" % round((time.time() - start_time), ndigits=4))
             f = open("scoreboard.txt", "a+")
-            f.write("It's a tie! Total race time %s seconds\r" % round((time.time() - start_time), ndigits=4))
+            f.write("It's a tie! Total race time %s seconds\r \n" % round((time.time() - start_time), ndigits=4))
             f.close()
             break
         elif index_car1 == track and index_car2 < track:
             print(f"Car {cars.car1.car_model} won")
             print("Total race time of winner %s seconds" % round((time.time() - start_time), ndigits=4))
             f = open("scoreboard.txt", "a+")
-            f.write(f"Car {cars.car1.car_model} won. Winner race time %s seconds\r"
+            f.write(f"Car {cars.car1.car_model} won. Winner race time %s seconds\r \n"
                     % round((time.time() - start_time), ndigits=4))
             f.close()
             break
@@ -41,7 +41,7 @@ def Race(track, speed_car):
             print(f"Car {cars.car2.car_model} won")
             print("Total race time of winner %s seconds" % (time.time() - start_time))
             f = open("scoreboard.txt", "a+")
-            f.write(f"Car {cars.car2.car_model} won. Winner race time %s seconds\r"
+            f.write(f"Car {cars.car2.car_model} won. Winner race time %s seconds\r \n"
                     % round((time.time() - start_time), ndigits=4))
             f.close()
             break
