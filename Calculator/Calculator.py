@@ -2,7 +2,7 @@ from time import sleep
 from math import sqrt
 
 
-""":first_place_medal:EXTRA (optional): Refactor (remake) your own calculator
+"""EXTRA (optional): Refactor (remake) your own calculator
 from the homework to incorporate the mathematical operations into the functions you create."""
 
 print("========================================")
