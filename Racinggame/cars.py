@@ -2,6 +2,7 @@
 Input about car "models", some random power and sleep between steps
 """
 
+
 class Car:
 
     def __init__(
