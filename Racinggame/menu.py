@@ -26,3 +26,4 @@ while True:
         print("Please choose option 1, 2 or 3")
 
 print("Than You for playing THE GAME!")
+print("WROOM WROOM WROOOOOOOOOOOM!")
