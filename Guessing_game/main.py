@@ -1,8 +1,6 @@
 from Guessing_game.game import game
 
 
-# 1. Guessing game
-
 """
 1. Using the base code of the number guessing game, create the following:
     a. Validation for the players number, so it:
