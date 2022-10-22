@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-from GuessingGame.game import game
-=======
 from Guessing_game.game import game
->>>>>>> origin/master
+
 
 # 1. Guessing game
 
